@@ -1,0 +1,8 @@
+# Arquivos de usuário e de cache do Visual Studio
+*.suo
+*.user
+.vs/
+
+# Resultados de compilação (Build)
+[Bb]in/
+[Oo]bj/

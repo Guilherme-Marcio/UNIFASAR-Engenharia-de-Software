@@ -1,8 +1,0 @@
-C:\Algoritmos II\Lista 2 ex3\Lista 2 ex3\bin\Debug\Lista 2 ex3.exe.config
-C:\Algoritmos II\Lista 2 ex3\Lista 2 ex3\bin\Debug\Lista 2 ex3.exe
-C:\Algoritmos II\Lista 2 ex3\Lista 2 ex3\bin\Debug\Lista 2 ex3.pdb
-C:\Algoritmos II\Lista 2 ex3\Lista 2 ex3\obj\Debug\Lista 2 ex3.csproj.AssemblyReference.cache
-C:\Algoritmos II\Lista 2 ex3\Lista 2 ex3\obj\Debug\Lista 2 ex3.csproj.CoreCompileInputs.cache
-C:\Algoritmos II\Lista 2 ex3\Lista 2 ex3\obj\Debug\Lista 2 ex3.exe
-C:\Algoritmos II\Lista 2 ex3\Lista 2 ex3\obj\Debug\Lista 2 ex3.pdb
-C:\Algoritmos II\Lista 2 ex3\Lista 2 ex3\obj\Debug\Lista 2 ex3.exe.config

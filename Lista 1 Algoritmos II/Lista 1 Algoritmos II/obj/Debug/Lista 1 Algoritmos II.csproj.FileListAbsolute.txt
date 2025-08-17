@@ -1,0 +1,8 @@
+C:\Algoritmos II\Lista 1\Lista 1 Algoritmos II\Lista 1 Algoritmos II\bin\Debug\Lista 1 Algoritmos II.exe.config
+C:\Algoritmos II\Lista 1\Lista 1 Algoritmos II\Lista 1 Algoritmos II\bin\Debug\Lista 1 Algoritmos II.exe
+C:\Algoritmos II\Lista 1\Lista 1 Algoritmos II\Lista 1 Algoritmos II\bin\Debug\Lista 1 Algoritmos II.pdb
+C:\Algoritmos II\Lista 1\Lista 1 Algoritmos II\Lista 1 Algoritmos II\obj\Debug\Lista 1 Algoritmos II.csproj.AssemblyReference.cache
+C:\Algoritmos II\Lista 1\Lista 1 Algoritmos II\Lista 1 Algoritmos II\obj\Debug\Lista 1 Algoritmos II.csproj.CoreCompileInputs.cache
+C:\Algoritmos II\Lista 1\Lista 1 Algoritmos II\Lista 1 Algoritmos II\obj\Debug\Lista 1 Algoritmos II.exe
+C:\Algoritmos II\Lista 1\Lista 1 Algoritmos II\Lista 1 Algoritmos II\obj\Debug\Lista 1 Algoritmos II.pdb
+C:\Algoritmos II\Lista 1\Lista 1 Algoritmos II\Lista 1 Algoritmos II\obj\Debug\Lista 1 Algoritmos II.exe.config

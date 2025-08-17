@@ -1,0 +1,16 @@
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\Lista 2 ex1\bin\Debug\Lista 2 ex1.exe.config
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\Lista 2 ex1\bin\Debug\Lista 2 ex1.exe
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\Lista 2 ex1\bin\Debug\Lista 2 ex1.pdb
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\Lista 2 ex1\obj\Debug\Lista 2 ex1.csproj.AssemblyReference.cache
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\Lista 2 ex1\obj\Debug\Lista 2 ex1.csproj.CoreCompileInputs.cache
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\Lista 2 ex1\obj\Debug\Lista 2 ex1.exe
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\Lista 2 ex1\obj\Debug\Lista 2 ex1.pdb
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\Lista 2 ex1\obj\Debug\Lista 2 ex1.exe.config
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\bin\Debug\Lista 2 ex1.exe.config
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\bin\Debug\Lista 2 ex1.exe
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\bin\Debug\Lista 2 ex1.pdb
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\obj\Debug\Lista 2 ex1.csproj.AssemblyReference.cache
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\obj\Debug\Lista 2 ex1.exe.config
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\obj\Debug\Lista 2 ex1.csproj.CoreCompileInputs.cache
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\obj\Debug\Lista 2 ex1.exe
+C:\Algoritmos II\Lista 2 ex1\Lista 2 ex1\obj\Debug\Lista 2 ex1.pdb
